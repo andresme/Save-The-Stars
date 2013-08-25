@@ -18,4 +18,9 @@ Art:
     * Otomata (Soundtrack, http://www.earslap.com/projectslab/otomata).
     * Audacity (A little of audio editting).
 
-Source on GitHub: https://github.com/andresme/Save-The-Stars/
+
+Links
+----------
+    * Source on GitHub: https://github.com/andresme/Save-The-Stars/.
+    * Download APK (Dropbox): https://www.dropbox.com/s/2fnbexyu9uuvk9p/Save_the_Stars.apk .
+    * Play Store: Pending...
