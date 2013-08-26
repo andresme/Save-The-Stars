@@ -1,8 +1,8 @@
-package ludum.dare.anmorales.rendering;
+package com.anmorales.save_the_stars.rendering;
 
-import ludum.dare.anmorales.world.GameWorld;
-import ludum.dare.anmorales.world.actors.Enemy;
 
+import com.anmorales.save_the_stars.world.GameWorld;
+import com.anmorales.save_the_stars.world.actors.Enemy;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;

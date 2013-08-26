@@ -1,4 +1,4 @@
-package ludum.dare.anmorales.world;
+package com.anmorales.save_the_stars.world;
 
 public interface World {
 

@@ -1,9 +1,9 @@
-package ludum.dare.anmorales.screens;
+package com.anmorales.save_the_stars.screens;
 
-import ludum.dare.anmorales.SaveTheStars;
-import ludum.dare.anmorales.rendering.GameRenderer;
-import ludum.dare.anmorales.world.GameWorld;
 
+import com.anmorales.save_the_stars.SaveTheStars;
+import com.anmorales.save_the_stars.rendering.GameRenderer;
+import com.anmorales.save_the_stars.world.GameWorld;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input.Keys;
 import com.badlogic.gdx.InputProcessor;

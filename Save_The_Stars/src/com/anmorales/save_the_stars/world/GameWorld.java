@@ -1,13 +1,13 @@
-package ludum.dare.anmorales.world;
+package com.anmorales.save_the_stars.world;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import ludum.dare.anmorales.SaveTheStars;
-import ludum.dare.anmorales.rendering.Renderer;
-import ludum.dare.anmorales.screens.GameScreen;
-import ludum.dare.anmorales.world.actors.Enemy;
 
+import com.anmorales.save_the_stars.SaveTheStars;
+import com.anmorales.save_the_stars.rendering.Renderer;
+import com.anmorales.save_the_stars.screens.GameScreen;
+import com.anmorales.save_the_stars.world.actors.Enemy;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.audio.Sound;
 import com.badlogic.gdx.math.Vector2;
