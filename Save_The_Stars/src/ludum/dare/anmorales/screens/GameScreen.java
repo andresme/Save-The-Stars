@@ -73,6 +73,8 @@ public class GameScreen implements Screen, InputProcessor {
 
 	@Override
 	public void resume() {
+		if(SaveTheStars.mSoundOn)
+			mGameMusic.stop();
 		mGame.changeScreen(new MenuScreen(mGame));
 		mPause = false;
 	}
