@@ -8,8 +8,9 @@ public class Main {
 		LwjglApplicationConfiguration cfg = new LwjglApplicationConfiguration();
 		cfg.title = "Save the Stars!";
 		cfg.useGL20 = true;
-		cfg.width = 640;
-		cfg.height = 360;
+		cfg.width = 960;
+		cfg.height = 540;
+		cfg.resizable = false;
 		
 		new LwjglApplication(new SaveTheStars(), cfg);
 	}

@@ -18,7 +18,7 @@
 		<link>
 			<name>assets</name>
 			<type>2</type>
-			<locationURI>copy_PARENT/Ludum_Dare_27_anmorales-android/assets</locationURI>
+			<location>/home/andres/ludumDare/Save-The-Stars/Save_The_Stars-android/assets</location>
 		</link>
 	</linkedResources>
 	<variableList>
