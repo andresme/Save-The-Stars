@@ -89,8 +89,9 @@ public class GameScreen implements Screen, InputProcessor {
 		if (keycode == Keys.BACK) {
 			Gdx.input.setCatchBackKey(false);
 			mGame.changeScreen(new MenuScreen(mGame));
-			mGameMusic.stop();
+			
 			if (SaveTheStars.mSoundOn) {
+				mGameMusic.stop();
 				SaveTheStars.mMenu.play();
 			}
 		}
