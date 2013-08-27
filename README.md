@@ -22,5 +22,5 @@ Art:
 Links
 ----------
     * Source on GitHub: https://github.com/andresme/Save-The-Stars/.
-    * Download APK (Dropbox): https://www.dropbox.com/s/2fnbexyu9uuvk9p/Save_the_Stars.apk .
-    * Play Store: Pending...
+    * Play Store: https://play.google.com/store/apps/details?id=com.anmorales.save_the_stars
+    * Ludum Dare: http://www.ludumdare.com/compo/ludum-dare-27/?action=preview&uid=27315
