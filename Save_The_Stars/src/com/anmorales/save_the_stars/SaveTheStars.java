@@ -1,7 +1,7 @@
-package ludum.dare.anmorales;
+package com.anmorales.save_the_stars;
 
-import ludum.dare.anmorales.screens.MenuScreen;
 
+import com.anmorales.save_the_stars.screens.MenuScreen;
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Preferences;

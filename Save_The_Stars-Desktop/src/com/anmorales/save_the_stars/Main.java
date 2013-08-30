@@ -1,5 +1,6 @@
-package ludum.dare.anmorales;
+package com.anmorales.save_the_stars;
 
+import com.anmorales.save_the_stars.SaveTheStars;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 

@@ -1,7 +1,7 @@
-package ludum.dare.anmorales.world.actors;
+package com.anmorales.save_the_stars.world.actors;
 
-import ludum.dare.anmorales.rendering.Renderer;
 
+import com.anmorales.save_the_stars.rendering.Renderer;
 import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.math.Vector2;
 

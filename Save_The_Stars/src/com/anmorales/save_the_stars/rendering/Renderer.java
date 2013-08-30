@@ -1,4 +1,4 @@
-package ludum.dare.anmorales.rendering;
+package com.anmorales.save_the_stars.rendering;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.OrthographicCamera;
