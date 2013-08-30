@@ -1,7 +1,8 @@
-package ludum.dare.anmorales;
+package com.anmorales.save_the_stars;
 
 import android.os.Bundle;
 
+import com.anmorales.save_the_stars.SaveTheStars;
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
 

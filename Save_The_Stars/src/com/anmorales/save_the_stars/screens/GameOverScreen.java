@@ -1,7 +1,7 @@
-package ludum.dare.anmorales.screens;
+package com.anmorales.save_the_stars.screens;
 
-import ludum.dare.anmorales.SaveTheStars;
 
+import com.anmorales.save_the_stars.SaveTheStars;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input.Keys;
 import com.badlogic.gdx.InputProcessor;
